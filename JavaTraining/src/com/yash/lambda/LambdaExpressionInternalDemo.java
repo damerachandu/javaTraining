@@ -27,7 +27,7 @@ public class LambdaExpressionInternalDemo {
 			return sum;
 		};
 		
-		System.out.println("Implict:"+lambda.compute(10,20,30));
+		System.out.println("Implict111:"+lambda.compute(10,20,30));
 		
 		//Explict
 		
